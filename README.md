@@ -1,1 +1,1 @@
-Python Lessons showing all the steps
+Python Projects showing all the steps
